@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ml_explained/static/js/main.c5d886f3.js",
+    "index.html": "/ml_explained/index.html",
+    "main.c5d886f3.js.map": "/ml_explained/static/js/main.c5d886f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c5d886f3.js"
+  ]
+}
