@@ -15,40 +15,13 @@ This project serves as a platform to:
 
 Every blog post here is crafted with clarity and depth, aiming to make machine learning accessible and exciting for everyone.
 
----
-
-## 📚 Blog Categories  
-
-1. **Deep Learning Explained**  
-   - Insights into neural networks, optimization techniques, and frameworks like PyTorch and TensorFlow.  
-
-2. **Computer Vision**  
-   - From image processing to advanced object detection and segmentation techniques.  
-
-3. **Research Paper Summaries**  
-   - Breaking down academic papers into understandable and actionable insights.  
-
-4. **General AI Topics**  
-   - Discussions on AI trends, ethical considerations, and future directions.  
-
----
 
 ## 🚀 How to Explore  
 
-1. Visit the hosted GitHub Page: [ml_explained](https://yourgithubusername.github.io/ml_explained/)  
+1. Visit the hosted GitHub Page: [ml_explained](https://jat108.github.io/ml_explained/)  
 2. Browse categorized articles in the repository’s `/blogs` directory.  
 3. Check out **featured articles** in the pinned section.  
 
----
-
-## 🛠️ Tools and Frameworks Covered  
-
-- **Programming Languages**: Python  
-- **Frameworks**: PyTorch, TensorFlow, FastAPI  
-- **Tools**: NumPy, Pandas, Matplotlib, OpenCV  
-- **Platforms**: AWS, Docker  
-
----
 
 ## 🤝 Contributing  
 
